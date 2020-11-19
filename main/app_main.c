@@ -12,7 +12,7 @@
 #include "driver/spi_master.h"
 #include "esp_log.h"
 #include "esp_spi_flash.h"
-#include "protocol_examples_common.h"
+// #include "protocol_examples_common.h"
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
